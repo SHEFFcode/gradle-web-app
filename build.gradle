@@ -25,7 +25,6 @@ dependencies {
 		
 	compileOnly "javax.servlet:javax.servlet-api:3.0.1"
 	testImplementation	'junit:junit:4.11'
-
 }
 
 war {
